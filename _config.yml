@@ -1,15 +1,15 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Linya's Galgame Network
+longtitle:        Linya's Galgame Network
+author:           linya
+email:            kiljaeden0905@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  这里是 linya 的 galgame 综评网站
 
 version:          1.0
-gitbook_version:  3.2.3
+gitbook_version:  1.0
 
-url:              'https://sighingnow.github.io'
+url:              'https://Myosotis11037.github.io'
 baseurl:          ''
 rss:              RSS
 
