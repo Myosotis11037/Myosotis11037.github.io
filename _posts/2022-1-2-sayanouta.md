@@ -1,7 +1,7 @@
 ---
 title: 沙耶之歌
 author: linya
-date: 2022-1-12
+date: 2022-1-2
 category: Jekyll
 layout: post
 ---
