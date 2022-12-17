@@ -12,7 +12,7 @@ layout: post
 
 ---
 
-&ensp;&ensp;&ensp;&ensp;**LGN** 评分：60分
+&ensp;&ensp;&ensp;&ensp;**LGN** 评分：60分 
 
 &ensp;&ensp;&ensp;&ensp;又到了我最喜闻乐见的短评环节。我只想用一个字概括这个作品，那就是：
 
