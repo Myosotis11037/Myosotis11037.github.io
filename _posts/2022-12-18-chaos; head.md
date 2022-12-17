@@ -1,7 +1,7 @@
 ---
 title: chaos; head
 author: linya
-date: 2022-12-17
+date: 2022-12-18
 category: Jekyll
 layout: post
 
